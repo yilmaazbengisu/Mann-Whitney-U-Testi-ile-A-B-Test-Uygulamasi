@@ -1,4 +1,4 @@
-# Mann-Whitney-U-Testi-ile-A-B-Testi-
+# Mann-Whitney-U-Testi-ile-A-B-Test-
 
 Bu proje, çevrimiçi eğitim kurslarının kullanıcı değerlendirmeleri üzerine bir analizi temsil etmektedir. 
 Veri analizi, bir online eğitim platformunda bulunan kursların kullanıcılar tarafından verilen puanlarını ve diğer ilgili verileri incelemektedir. 
